@@ -1,4 +1,4 @@
-# node_crud_app
+# Contact Management System (CMS) Application
  
 To run the application:
 1. Clone the repository into local folder
