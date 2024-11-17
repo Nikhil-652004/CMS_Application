@@ -27,6 +27,8 @@ app.use((req, res, next) => {
     next();
 });
 
+
+
 //Template Engine
 app.set("view engine", "ejs");
 
